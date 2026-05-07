@@ -88,39 +88,4 @@ function getSeason() {
     return "Common";
 }
 
-function getSeasonDebug() {
-    const today = new Date();
-    const year = today.getFullYear();
-
-    const easter = getEaster(year);
-
-    const septuagesima = addDays(easter, -63);
-    const ashWednesday = addDays(easter, -46);
-    const passionSunday = addDays(easter, -14);
-    const palmSunday = addDays(easter, -7);
-    const pentecost = addDays(easter, 49);
-    const trinity = addDays(easter, 56);
-
-    const adventStart = getAdventStart(year);
-
-    return {
-        year,
-        today,
-        season: getSeason(),
-        christmas: new Date(year, 11, 25),
-        epiphany: new Date(year, 0, 6),
-        adventStart,
-        septuagesima,
-        ashWednesday,
-        passionSunday,
-        palmSunday,
-        easter,
-        pentecost,
-        trinity
-    };
-}
-
-module.exports = {
-    getSeason,
-    getSeasonDebug
-};
+module.exports = getSeason;
