@@ -27,17 +27,18 @@ function getEaster(y) {
 function getAdventStart(year) {
     const christmas = new Date(year, 11, 25);
 
-    const lastSundayBeforeChristmas = new Date(christmas);
-    lastSundayBeforeChristmas.setDate(
-        christmas.getDate() - christmas.getDay()
-    );
+    const lastSunday = new Date(christmas);
+    lastSunday.setDate(christmas.getDate() - christmas.getDay());
 
-    const adventStart = new Date(lastSundayBeforeChristmas);
-    adventStart.setDate(lastSundayBeforeChristmas.getDate() - 21);
+    const adventStart = new Date(lastSunday);
+    adventStart.setDate(lastSunday.getDate() - 21);
 
     return adventStart;
 }
 
+/**
+ * CURRENT SEASON (used by Templater in Compline, etc.)
+ */
 function getSeason() {
     const today = new Date();
     const year = today.getFullYear();
@@ -56,74 +57,61 @@ function getSeason() {
     if (
         today >= new Date(year, 11, 25) ||
         today <= new Date(year, 0, 5)
-    ) {
-        return "Christmastide";
-    }
+    ) return "Christmastide";
 
-    if (
-        today >= adventStart &&
-        today < new Date(year, 11, 25)
-    ) {
+    if (today >= adventStart && today < new Date(year, 11, 25))
         return "Adventide";
-    }
 
-    if (
-        today >= new Date(year, 0, 6) &&
-        today < septuagesima
-    ) {
+    if (today >= new Date(year, 0, 6) && today < septuagesima)
         return "Epiphanytide";
-    }
 
-    if (
-        today >= septuagesima &&
-        today < ashWednesday
-    ) {
+    if (today >= septuagesima && today < ashWednesday)
         return "Gesimatide";
-    }
 
-    if (
-        today >= ashWednesday &&
-        today < passionSunday
-    ) {
+    if (today >= ashWednesday && today < passionSunday)
         return "Lententide";
-    }
 
-    if (
-        today >= passionSunday &&
-        today < palmSunday
-    ) {
+    if (today >= passionSunday && today < palmSunday)
         return "Passiontide";
-    }
 
-    if (
-        today >= palmSunday &&
-        today < easter
-    ) {
+    if (today >= palmSunday && today < easter)
         return "HolyWeek";
-    }
 
-    if (
-        today >= easter &&
-        today < pentecost
-    ) {
+    if (today >= easter && today < pentecost)
         return "Eastertide";
-    }
 
-    if (
-        today >= pentecost &&
-        today < trinity
-    ) {
+    if (today >= pentecost && today < trinity)
         return "Whitsuntide";
-    }
 
-    if (
-        today >= trinity &&
-        today < adventStart
-    ) {
+    if (today >= trinity && today < adventStart)
         return "Trinitytide";
-    }
 
     return "Common";
 }
 
+/**
+ * FULL CALENDAR DATA (for debugging / validation)
+ */
+function getSeasonData(year) {
+    const easter = getEaster(year);
+
+    return {
+        year,
+        epiphany: new Date(year, 0, 6),
+
+        septuagesima: addDays(easter, -63),
+        ashWednesday: addDays(easter, -46),
+        passionSunday: addDays(easter, -14),
+        palmSunday: addDays(easter, -7),
+
+        easter,
+        pentecost: addDays(easter, 49),
+        trinity: addDays(easter, 56),
+
+        adventStart: getAdventStart(year),
+        christmas: new Date(year, 11, 25)
+    };
+}
+
 module.exports = getSeason;
+module.exports.getSeasonData = getSeasonData;
