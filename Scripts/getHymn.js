@@ -13,27 +13,24 @@ function getHymn(hour, season) {
         const seasons = fm.seasons ?? [];
         const commons = fm.commons ?? [];
 
-        const matchesHour = hours.includes(hour);
-        const matchesSeason = seasons.includes(season);
-        const matchesCommon = commons.length > 0;
-
-        if (matchesHour && (matchesSeason || matchesCommon)) {
+        if (
+            hours.includes(hour) &&
+            (seasons.includes(season) || commons.length > 0)
+        ) {
             hymns.push({ file, fm });
         }
     }
 
     if (hymns.length === 0) return null;
 
-    // Priority:
-    // 1. exact season match
-    // 2. common fallback
     const seasonal = hymns.find(h =>
         h.fm.seasons?.includes(season)
     );
 
     const chosen = seasonal ?? hymns[0];
 
-    return chosen.file.path.replace(/\.md$/, "");
+    // ✅ only return hymn title
+    return chosen.file.basename;
 }
 
 module.exports = getHymn;
