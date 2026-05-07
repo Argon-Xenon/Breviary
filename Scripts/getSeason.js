@@ -17,6 +17,7 @@ function getEaster(y) {
     const k = c % 4;
     const l = (32 + 2 * e + 2 * i - h - k) % 7;
     const m = Math.floor((a + 11 * h + 22 * l) / 451);
+
     const month = Math.floor((h + l - 7 * m + 114) / 31);
     const day = ((h + l - 7 * m + 114) % 31) + 1;
 
@@ -25,10 +26,11 @@ function getEaster(y) {
 
 function getAdventStart(year) {
     const christmas = new Date(year, 11, 25);
-    const day = christmas.getDay();
 
     const lastSundayBeforeChristmas = new Date(christmas);
-    lastSundayBeforeChristmas.setDate(christmas.getDate() - day);
+    lastSundayBeforeChristmas.setDate(
+        christmas.getDate() - christmas.getDay()
+    );
 
     const adventStart = new Date(lastSundayBeforeChristmas);
     adventStart.setDate(lastSundayBeforeChristmas.getDate() - 21);
@@ -51,39 +53,75 @@ function getSeason() {
 
     const adventStart = getAdventStart(year);
 
-    const d = today;
+    if (
+        today >= new Date(year, 11, 25) ||
+        today <= new Date(year, 0, 5)
+    ) {
+        return "Christmastide";
+    }
 
     if (
-        d >= new Date(year, 11, 25) ||
-        d <= new Date(year, 0, 5)
-    ) return "Christmastide";
-
-    if (d >= adventStart && d < new Date(year, 11, 25))
+        today >= adventStart &&
+        today < new Date(year, 11, 25)
+    ) {
         return "Adventide";
+    }
 
-    if (d >= new Date(year, 0, 6) && d < septuagesima)
+    if (
+        today >= new Date(year, 0, 6) &&
+        today < septuagesima
+    ) {
         return "Epiphanytide";
+    }
 
-    if (d >= septuagesima && d < ashWednesday)
+    if (
+        today >= septuagesima &&
+        today < ashWednesday
+    ) {
         return "Gesimatide";
+    }
 
-    if (d >= ashWednesday && d < passionSunday)
+    if (
+        today >= ashWednesday &&
+        today < passionSunday
+    ) {
         return "Lententide";
+    }
 
-    if (d >= passionSunday && d < palmSunday)
+    if (
+        today >= passionSunday &&
+        today < palmSunday
+    ) {
         return "Passiontide";
+    }
 
-    if (d >= palmSunday && d < easter)
+    if (
+        today >= palmSunday &&
+        today < easter
+    ) {
         return "HolyWeek";
+    }
 
-    if (d >= easter && d < pentecost)
+    if (
+        today >= easter &&
+        today < pentecost
+    ) {
         return "Eastertide";
+    }
 
-    if (d >= pentecost && d < trinity)
+    if (
+        today >= pentecost &&
+        today < trinity
+    ) {
         return "Whitsuntide";
+    }
 
-    if (d >= trinity && d < adventStart)
+    if (
+        today >= trinity &&
+        today < adventStart
+    ) {
         return "Trinitytide";
+    }
 
     return "Common";
 }
