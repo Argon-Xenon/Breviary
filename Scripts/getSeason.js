@@ -113,5 +113,7 @@ function getSeasonData(year) {
     };
 }
 
-module.exports = getSeason;
-module.exports.getSeasonData = getSeasonData;
+module.exports = {
+    getSeason,
+    getSeasonData
+};
