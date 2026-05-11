@@ -38,8 +38,8 @@ function getPsalm(hour) {
             const fm = cache?.frontmatter;
 
             return (
-                fm?.type === "psalm" &&
-                String(fm.number) === String(num)
+                fm?.Type === "psalm" &&
+                String(fm.Number) === String(num)
             );
 
         });
