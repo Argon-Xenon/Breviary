@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 3
 Latin Name: Domine, quid
 Tone: II
 Proper Antiphon: Arise, O LORD; save me, O my God.

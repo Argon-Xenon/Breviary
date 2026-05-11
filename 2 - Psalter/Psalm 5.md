@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 5
 Latin Name: Verba mea
 Tone: VIII
 Proper Antiphon: "Hearken unto the vóice of my <u>cry</u> : my Kíng and my <u>God</u>."

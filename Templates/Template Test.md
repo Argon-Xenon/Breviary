@@ -1,20 +1,18 @@
 <%*
-const season = tp.user.getSeason();
-const hymnName = tp.user.getHymn("Compline", season);
+const files =
+    tp.user.getPsalm("Compline");
 
-// find the file by basename
-const file = app.vault.getMarkdownFiles()
-    .find(f => f.basename === hymnName);
+for (const file of files) {
 
-if (!file) {
-    tR += `Hymn not found: ${hymnName}`;
-    return;
+    let content =
+        await app.vault.read(file);
+
+    // Remove YAML frontmatter
+    content = content.replace(
+        /^---[\s\S]*?---\n/,
+        ""
+    );
+
+    tR += content + "\n\n";
 }
-
-let content = await app.vault.read(file);
-
-// strip YAML frontmatter
-content = content.replace(/^---[\s\S]*?---\n/, "");
-
-tR += content;
 %>

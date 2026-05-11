@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 6
 Latin Name: Domine, ne in furore
 Tone: I
 Proper Antiphon: "Sáve me, O <u>Lord</u> : fór Thy mércy’s sake."

@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 2
 Latin Name: Quare fremuerunt
 Tone: I
 Proper Antiphon: "Sérve the Lórd with fear : and rejóice with trémbling."

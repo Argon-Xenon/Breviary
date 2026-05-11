@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 1
 Latin Name: Beatus vir
 Tone: I
 Proper Antiphon: "Bless-ed is the man that doth méditate dáy and night : in the Láw of the <u>Lord</u>."

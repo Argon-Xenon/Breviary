@@ -1,4 +1,6 @@
 ---
+Type: psalm
+Number: 4
 Latin Name: Cum invocarem
 Tone: VIII
 Proper Antiphon: "Have mercy upón me, O <u>Lord</u> : and héar my prayer."
