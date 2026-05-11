@@ -1,4 +1,5 @@
 function getPsalm(hour) {
+
     const weekday = [
         "Sunday",
         "Monday",
@@ -21,7 +22,29 @@ function getPsalm(hour) {
         }
     };
 
-    return schema[hour]?.[weekday] ?? [];
+    const numbers =
+        schema[hour]?.[weekday] ?? [];
+
+    const files =
+        app.vault.getMarkdownFiles();
+
+    return numbers.map(num => {
+
+        return files.find(file => {
+
+            const cache =
+                app.metadataCache.getFileCache(file);
+
+            const fm = cache?.frontmatter;
+
+            return (
+                fm?.type === "psalm" &&
+                String(fm.number) === String(num)
+            );
+
+        });
+
+    }).filter(Boolean);
 }
 
 module.exports = getPsalm;
