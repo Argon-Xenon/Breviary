@@ -43,12 +43,15 @@ for (const file of files) {
 		tp.user.getAntiphon(file);
 
     // Print heading
-    tR += `### **Psalm ${number}** — *${latin}* \\[${tone}]\n\n`;
+    tR += `### **Psalm ${number}** — *${latin}*\n\n`;
 
 	// Opening antiphon  
 	if (antiphon) {  
 		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n\n`;  
 	}
+
+	// Include Tone SVG
+	tR += `${tone}![[Tone ${tone}]]`
 
     // Read file
     let content =
