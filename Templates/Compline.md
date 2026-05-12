@@ -24,6 +24,51 @@ Alleluia!
 <span style="color:#fe3f01"><i>Instead of Alleluia, from Septuagesima to Easter Eve.</i></span>
 Praise to Thee, O Christ, King of eternal Glory!
 ## Psalmody
+<%*
+const files =
+    tp.user.getPsalm("Compline");
+
+for (const file of files) {
+
+    const cache =
+        app.metadataCache.getFileCache(file);
+
+    const fm = cache?.frontmatter ?? {};
+
+    const number = fm["Number"] ?? "";
+    const latin = fm["Latin Name"] ?? "";
+    const tone = fm["Tone"] ?? "";
+
+	const antiphon =  
+		tp.user.getAntiphon(file);
+
+    // Print heading
+    tR += `### **Psalm ${number}** — *${latin}* \\[${tone}]\n\n`;
+
+	// Opening antiphon  
+	if (antiphon) {  
+		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n\n`;  
+	}
+
+    // Read file
+    let content =
+        await app.vault.read(file);
+
+    // Remove YAML frontmatter
+    content = content.replace(
+        /^---[\s\S]*?---\n/,
+        ""
+    );
+
+    // Insert psalm text
+    tR += content + "\n\n";
+
+	// Closing antiphon  
+	if (antiphon) {  
+		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n\n`;  
+	}
+}
+%>
 
 ## Little Chapter 
 <span style="color:#fe3f01"><i>Sit. The Little Chapter at Compline never varies: Jer. 14:9.</i></span>
