@@ -11,9 +11,10 @@ for (const file of files) {
 
     const number = fm["Number"] ?? "";
     const latin = fm["Latin Name"] ?? "";
+    const tone = fm["Tone"] ?? "";
 
     // Print heading
-    tR += `**Psalm ${number}** — *${latin}*\n\n`;
+    tR += `### **Psalm ${number}** — *${latin}* \\[${tone}]\n\n`;
 
     // Read file
     let content =
