@@ -51,7 +51,7 @@ for (const file of files) {
 	}
 
 	// Include Tone SVG
-	tR += `${tone}![[Tone ${tone}]]`
+	tR += `**${tone}**![[Tone ${tone}.svg]]`
 
     // Read file
     let content =

@@ -27,6 +27,7 @@ Praise to Thee, O Christ, King of eternal Glory!
 ### **Psalm 7** — *Domine, Deus meus* \[VI]
 
 <span style="color:#fe3f01">Ant.</span> Sáve me, O <u>God</u> : from all them that pérsecute <u>me</u>.
+**VI** ![[Tone VI.svg]]
 
 1 O LORD my God, in thée do I pút my trust: \* save me from all them that persecute me, ánd delíver me: 
 2 Lest he tear my soul like a lion, rending ít in píeces, \* while there is nóne to delíver. 
