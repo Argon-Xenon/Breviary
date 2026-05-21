@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 7
+Number: "7"
 Latin Name: Domine, Deus meus
 Tone: VI
 Proper Antiphon: "Sáve me, O <u>God</u> : from all them that pérsecute <u>me</u>."

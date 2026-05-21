@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 86
+Number: "86"
 Latin Name: Inclina, Domine
 Tone: II
 Proper Antiphon: "Lord, give Thy strength únto Thy sérvant : and save the són of Thine hándmaid."

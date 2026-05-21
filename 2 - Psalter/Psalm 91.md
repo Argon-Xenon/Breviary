@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 91
+Number: "91"
 Latin Name: Qui habitat
 Tone: VIII
 Proper Antiphon: "The Lord shall give his angels chárge over <u>thee</u> : to kéep thee in áll thy ways."

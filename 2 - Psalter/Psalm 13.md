@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 13
+Number: "13"
 Latin Name: Usquequo, Domine
 Tone: VIII
 Proper Antiphon: "Consíder and héar me : O Lórd, my God."

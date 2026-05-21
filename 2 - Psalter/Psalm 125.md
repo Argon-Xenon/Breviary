@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 125
+Number: "125"
 Latin Name: Qui confidunt
 Tone: V
 Proper Antiphon: "The Lord is round abóut His péople : from henceforth éven foréver."

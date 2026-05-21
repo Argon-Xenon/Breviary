@@ -1,6 +1,6 @@
 ---
 Type: psalm
-Number: 15
+Number: "15"
 Latin Name: Domine, quis habit
 Tone: V
 Proper Antiphon: "He that wórketh ríghteousness : shall dwell in Thy hóly híll, O Lord."
