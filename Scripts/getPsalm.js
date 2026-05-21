@@ -12,7 +12,7 @@ function getPsalm(hour) {
 
     const schema = {
         Compline: {
-            Sunday: ["4", "31_1-5", "91"],
+            Sunday: ["4", "31:1-5", "91"],
             Monday: ["7", "15", "125"],
             Tuesday: ["11", "16", "30"],
             Wednesday: ["40", "120", "134"],
