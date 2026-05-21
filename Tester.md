@@ -24,61 +24,56 @@ Alleluia!
 <span style="color:#fe3f01"><i>Instead of Alleluia, from Septuagesima to Easter Eve.</i></span>
 Praise to Thee, O Christ, King of eternal Glory!
 ## Psalmody
-### **Psalm 7** — *Domine, Deus meus* \[VI]
-
-<span style="color:#fe3f01">Ant.</span> Sáve me, O <u>God</u> : from all them that pérsecute <u>me</u>.
-**VI** ![[Tone VI.svg]]
-
-1 O LORD my God, in thée do I pút my trust: \* save me from all them that persecute me, ánd delíver me: 
-2 Lest he tear my soul like a lion, rending ít in píeces, \* while there is nóne to delíver. 
-3 O LORD my God, if Í have dóne this; \* if there be iníquity ín my hands; 
-4 If I have rewarded evil unto him that wás at péace with me; \* (yea, I have delivered him that without cause ís mine énemy:) 
-5 Let the enemy persecute my sóul, and táke it; \* yea, let him tread down my life upon the earth, and lay mine hónour ín the dust. 
-6 Arise, O LORD, in thine anger, † lift up thyself because of the ráge of mine énemies: \* and awake for me to the judgment that thou hást commánded. 
-7 So shall the congregation of the people cómpass thée about: \* for their sakes therefore retúrn thou on <u>high</u>. 
-8 The LORD shall judge the people: † judge me, O LORD, according tó my ríghteousness, \* and according to mine integrity thát is ín me. 
-9 Oh let the wickedness of the wicked come to an end; but estáblish the <u>just</u>: \* for the righteous God tríeth the héarts and reins.
-10 My defénce is of God, \* which saveth the úpright in heart. 
-11 God júdgeth the ríghteous, \* and God is angry with the wícked évery day. 
-12 If he turn not, hé will whét his sword; \* he hath bent his bow, and máde it réady. 
-13 He hath also prepared for him the ínstruménts of death; \* he ordaineth his arrows against the pérsecútors. 
-14 Behold, he travaileth with inîquity, † and háth conceived míschief, \* and bróught forth fálsehood. 
-15 He made a pít, and dígged it, \* and is fallen into the dítch which he made. 
-16 His mischief shall return upón his ówn head, \* and his violent dealing shall come down upón his ówn pate. 
-17 I will praise the LORD according tó his ríghteousness: \* and will sing praise to the náme of the LÓRD most high.
-**Glory be to the Fáther and tó the Son \* - and tó the Hóly Ghost.** 
-**As it was in the beginning, is now, and éver sháll be, \* - wórld without énd. Amen.**
-
-
-<span style="color:#fe3f01">Ant.</span> Sáve me, O <u>God</u> : from all them that pérsecute <u>me</u>.
-
-### **Psalm 15** — *Domine, quis habit* \[V]
-
-<span style="color:#fe3f01">Ant.</span> He that wórketh ríghteousness : shall dwell in Thy hóly híll, O Lord.
-
-1 LORD, who shall abide in thy tábernácle? \* who shall dwell ín thy hóly hill? 
-2 He that walketh uprightly, and wórketh ríghteousness, \* and speaketh the trúth in his <u>heart</u>. 
-3 He that backbiteth not with his tongue, † nor doeth evil tó his néighbour, \* nor taketh up a reproach agáinst his néighbour. 
-4 In whose eyes a vile person is contemned; † but he honoureth thém that féar the LORD. \* He that sweareth to his own húrt, and chángeth not. 
-5 He that putteth not out his money to ûsury, † nor taketh reward agáinst the ínnocent. \* He that doeth these things shall néver be <u>moved</u>. 
-**Glory be to the Fáther and tó the Son \* and tó the Hóly Ghost. As it was in the beginning, is now, and éver sháll be, \* wórld without énd. Amen.**
-
-<span style="color:#fe3f01">Ant.</span> He that wórketh ríghteousness : shall dwell in Thy hóly híll, O Lord.
-
-### **Psalm 125** — *Qui confidunt* \[V]
-
-<span style="color:#fe3f01">Ant.</span> The Lord is round abóut His péople : from henceforth éven foréver.
-
-1 They that trust in the LORD shall bé as mount Zíon, \* which cannot be removed, but abídeth for éver. 
-2 As the mountains are round abóut Jerúsalem, \* so the LORD is round about his people from henceforth éven for éver. 
-3 For the rod of the wicked shall not rest upon the lót of the ríghteous; \* lest the righteous put forth their hands únto iníquity. 
-4 Do good, O LORD, unto thóse that be good, \* and to them that are úpright ín their hearts. 
-5 As for such as turn aside unto their crôoked ways, † the LORD shall lead them forth with the workers óf iníquity: \* but peace shall bé upon Ísrael. 
-**Glory be to the Fáther and tó the Son \* and tó the Hóly Ghost. As it was in the beginning, is now, and éver sháll be, \* wórld without énd. Amen.**
-
-<span style="color:#fe3f01">Ant.</span> The Lord is round abóut His péople : from henceforth éven foréver.
-
-
+### **Psalm 46** — *Deus noster*
+<span style="color:#fe3f01">Ant.</span> The Lord of hósts is wíth us : the God of Jacob ís our réfuge.
+**I**![[Tone I.svg]]<br>1 God is our réfuge and strength, * a very present hélp in tróuble. 
+2 Therefore will not we fear, though the eárth be removed, * and though the mountains be carried into the mídst of the sea; 
+3 Though the waters thereof róar and be tróubled, * though the mountains shake with the swélling thereof. 
+4 There is a river, the streams whereof shall make glad the cíty of God, * the holy place of the tabernacles óf the móst High. 
+5 God is in the midst of her; shé shall nót be moved: * God shall help her, and thát right éarly.
+6 The heathen raged, the kíngdoms were moved: * he uttered his vóice, the earth mélted. 
+7 The LORD of hósts is wíth us; * the God of Jacob ís our réfuge. 
+8 Come, behold the wórks of the LORD, * what desolations he hath máde in the earth. 
+9 He maketh wars to cease unto the end of the earth; † he breaketh the bow, and cutteth the spéar in súnder; * he burneth the cháriot ín the fire. 
+10 Be still, and knów that Í am God: * I will be exalted among the heathen, I will be exálted ín the earth. 
+11 The LORD of hósts is wíth us; * the God of Jacob ís our réfuge. 
+**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost. 
+As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+<span style="color:#fe3f01">Ant.</span> The Lord of hósts is wíth us : the God of Jacob ís our réfuge.
+### **Psalm 47** — *Omnes gentes*
+<span style="color:#fe3f01">Ant.</span> Oh, shóut unto <u>God</u> : with the vóice of tríumph.
+**I**![[Tone I.svg]]<br>1 O clap your hands, áll ye péople; * shout unto God with the vóice of tríumph. 
+2 For the LORD most hígh is térrible; * he is a great King óver áll the earth. 
+3 He shall subdue the péople únder us, * and the nations únder our feet. 
+4 He shall choose our inhéritance fór us, * the excellency of Jácob whóm he loved. 
+5 God is gone úp with a shout, * the LORD with the sóund of a trúmpet. 
+6 Sing praises to Gód, sing práises: * sing praises unto our Kíng, sing práises. 
+7 For God is the Kíng of áll the earth: * sing ye praises with únderstánding. 
+8 God reigneth óver the héathen: * God sitteth upon the thróne of his hóliness. 
+9 The princes of the people are gáthered togéther, * even the people of the Gód of Ábraham: 
+For the shields of the earth belóng unto God: * he is gréatly exálted. 
+**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost. 
+As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+<span style="color:#fe3f01">Ant.</span> Oh, shóut unto <u>God</u> : with the vóice of tríumph.
+### **Psalm 48** — *Magnus Dominus*
+<span style="color:#fe3f01">Ant.</span> (Verse 1)
+**I**![[Tone I.svg]]<br>1 \[Great is the LORD, and gréatly tó be praised] * in the city of our God, in the mountain óf his hóliness. 
+2 Beautiful for situation, the jóy of the whóle earth, * is mount Zion, on the sides of the north, the city óf the gréat King. 
+3 God is known in her palaces fór a réfuge. * 
+4 For, lo, the kings were assembled, they passed bý togéther. 
+5 They saw it, and só they márvelled; * they were troubled, and hásted away. 
+6 Fear took hóld upón them there, * and pain, as of a wóman ín travail. 
+7 Thou breakest the shíps of Társhish * wíth an éast wind. 
+8 As we have heard, so have we seen † in the city of the LORD of hosts, in the cíty óf our God: * God will establish ít for éver. 
+9 We have thought of thy lovingkíndness, O God, * in the mídst of thy témple. 
+10 According to thy name, O God, so is thy praise unto the énds of the earth: * thy right hand is fúll of ríghteousness. 
+11 Let mount Zion rejoice, let the daughters of Júdah be glad, * becáuse of thy júdgments. 
+12 Walk about Zion, and go róund abóut her: * tell the tówers thereof. 
+13 Mark ye well her bulwarks, consíder her pálaces; * that ye may tell it to the generátion fóllowing. 
+14 For this God is our God for éver and éver: * he will be our guide éven únto death. 
+**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost.** 
+**As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+<span style="color:#fe3f01">Ant.</span> (Verse 1)
 
 ## Little Chapter 
 <span style="color:#fe3f01"><i>Sit. The Little Chapter at Compline never varies: Jer. 14:9.</i></span>
@@ -93,10 +88,10 @@ Praise to Thee, O Christ, King of eternal Glory!
 2. Be with us now, in mercy nigh, / And spare Thy servants when they cry; / Our sins blot out, our prayers receive, / Thy light throughout our darkness give. 
 3. To Thee who dost our hearts renew, / With fervent prayer we humbly sue, / That pure in thought and free from stain / We from our beds may rise again. 
 4. O Lord, the Virgin-born, to Thee / Eternal praise and glory be, / Whom with the Father we adore / And Holy Ghost forevermore. Amen.
-(Trans. by Copeland and others)
+(Trans. by Copeland and others)Eastertide
 ## Canticle
 <span style="color:#fe3f01">℣.</span> Keep us, O Lord, as the apple of thine eye.  <span style="color:#fe3f01">℟.</span> Hide us under the shadow of thy wings.
-### *Nunc dimittis* \[III]
+### Nunc dimittis \[III]
 <span style="color:#fe3f01">Ant.</span> Guide us waking, O Lord, and guárd us sléeping: That awake we may watch with Christ and asléep we may rést in peace. 
 
 <span style="color:#fe3f01">☩</span> Lord, now lettest thou thy sérvant depárt in peace: * accórding tó thy word; For mine eyes have seen thý Salvátion: * which thou hast prepared before the fáce of all péople; A Light to líghten the Géntiles: * and the Glory of Thy péople Ísrael. 

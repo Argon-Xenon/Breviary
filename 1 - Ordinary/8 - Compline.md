@@ -43,12 +43,15 @@ for (const file of files) {
 		tp.user.getAntiphon(file);
 
     // Print heading
-    tR += `### **Psalm ${number}** — *${latin}* \\[${tone}]\n\n`;
+    tR += `### **Psalm ${number}** — *${latin}*\n`;
 
 	// Opening antiphon  
 	if (antiphon) {  
-		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n\n`;  
+		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n`;  
 	}
+
+	// Include Tone SVG
+	tR += `**${tone}**![[Tone ${tone}.svg]]<br>`
 
     // Read file
     let content =
@@ -61,15 +64,14 @@ for (const file of files) {
     );
 
     // Insert psalm text
-    tR += content + "\n\n";
+    tR += content + "\n";
 
 	// Closing antiphon  
 	if (antiphon) {  
-		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n\n`;  
+		tR += `<span style="color:#fe3f01">Ant.</span> ${antiphon}\n`;  
 	}
 }
 %>
-
 ## Little Chapter 
 <span style="color:#fe3f01"><i>Sit. The Little Chapter at Compline never varies: Jer. 14:9.</i></span>
 <span style="color:#fe3f01">℣.</span> Thou, O Lord, art in the midst of us, and we are called by thy Name; * leave us not, O Lord our God. 
