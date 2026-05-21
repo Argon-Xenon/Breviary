@@ -102,9 +102,9 @@ tR += content;
 %>
 ## Canticle
 <span style="color:#fe3f01">℣.</span> Keep us, O Lord, as the apple of thine eye.  <span style="color:#fe3f01">℟.</span> Hide us under the shadow of thy wings.
-### Nunc dimittis \[III]
+### Nunc dimittis
 <span style="color:#fe3f01">Ant.</span> Guide us waking, O Lord, and guárd us sléeping: That awake we may watch with Christ and asléep we may rést in peace. 
-
+![[Tone III.svg]]
 <span style="color:#fe3f01">☩</span> Lord, now lettest thou thy sérvant depárt in peace: * accórding tó thy word; For mine eyes have seen thý Salvátion: * which thou hast prepared before the fáce of all péople; A Light to líghten the Géntiles: * and the Glory of Thy péople Ísrael. 
 Glory be to the Fáther and tó the Son * and tó the Hóly Ghost. As it was in the beginning, is now, and éver sháll be, * wórld without énd. Amen. 
 <span style="color:#fe3f01"><i>Repeat the Antiphon.</i></span>

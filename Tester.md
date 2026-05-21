@@ -26,53 +26,52 @@ Praise to Thee, O Christ, King of eternal Glory!
 ## Psalmody
 ### **Psalm 46** — *Deus noster*
 <span style="color:#fe3f01">Ant.</span> The Lord of hósts is wíth us : the God of Jacob ís our réfuge.
-**I**![[Tone I.svg]]<br>1 God is our réfuge and strength, * a very present hélp in tróuble. 
-2 Therefore will not we fear, though the eárth be removed, * and though the mountains be carried into the mídst of the sea; 
-3 Though the waters thereof róar and be tróubled, * though the mountains shake with the swélling thereof. 
-4 There is a river, the streams whereof shall make glad the cíty of God, * the holy place of the tabernacles óf the móst High. 
-5 God is in the midst of her; shé shall nót be moved: * God shall help her, and thát right éarly.
-6 The heathen raged, the kíngdoms were moved: * he uttered his vóice, the earth mélted. 
-7 The LORD of hósts is wíth us; * the God of Jacob ís our réfuge. 
-8 Come, behold the wórks of the LORD, * what desolations he hath máde in the earth. 
-9 He maketh wars to cease unto the end of the earth; † he breaketh the bow, and cutteth the spéar in súnder; * he burneth the cháriot ín the fire. 
-10 Be still, and knów that Í am God: * I will be exalted among the heathen, I will be exálted ín the earth. 
-11 The LORD of hósts is wíth us; * the God of Jacob ís our réfuge. 
-**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost. 
-As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+**I**![[Tone I.svg]]<br>1 God is our / réfuge and <u>strength</u>, \* a very present / hélp in tróuble. 
+2 Therefore will not we fear, though the / eárth be re<u>moved</u>, \* and though the mountains be carried into the / mídst of the <u>sea</u>; 
+3 Though the waters thereof / róar and be tróubled, \* though the mountains shake with the / swélling there<u>of</u>. 
+4 There is a river, the streams whereof shall make glad the / cíty of <u>God</u>, \* the holy place of the tabernacles / óf the móst High. 
+5 God is in the midst of her; / shé shall nót be moved: \* God shall help her, and / thát right éarly.
+6 The heathen raged, the / kíngdoms were <u>moved</u>: \* he uttered his vóice, / the earth mélted. 
+7 The LORD of / hósts is wíth us; \* the God of Jacob / ís our réfuge. 
+8 Come, behold the / wórks of the <u>LORD</u>, \* what desolations he hath / máde in the <u>earth</u>. 
+9 He maketh wars to cease unto the end of the earth; † he breaketh the bow, and cutteth the / spéar in súnder; \* he burneth the / chár*i*ot ín the fire. 
+10 Be still, and / knów that Í am God: \* I will be exalted among the heathen, I will be ex- / álted ín the earth. 
+11 The LORD of / hósts is wíth us; \* the God of Jacob / ís our réfuge. 
+**Glory be to the / Fáther and tó the Son * - and / tó the Hóly Ghost. 
+As it was in the beginning, is now, and / éver sháll be, * - wórld / without énd. Amen.**
 <span style="color:#fe3f01">Ant.</span> The Lord of hósts is wíth us : the God of Jacob ís our réfuge.
 ### **Psalm 47** — *Omnes gentes*
 <span style="color:#fe3f01">Ant.</span> Oh, shóut unto <u>God</u> : with the vóice of tríumph.
-**I**![[Tone I.svg]]<br>1 O clap your hands, áll ye péople; * shout unto God with the vóice of tríumph. 
-2 For the LORD most hígh is térrible; * he is a great King óver áll the earth. 
-3 He shall subdue the péople únder us, * and the nations únder our feet. 
-4 He shall choose our inhéritance fór us, * the excellency of Jácob whóm he loved. 
-5 God is gone úp with a shout, * the LORD with the sóund of a trúmpet. 
-6 Sing praises to Gód, sing práises: * sing praises unto our Kíng, sing práises. 
-7 For God is the Kíng of áll the earth: * sing ye praises with únderstánding. 
-8 God reigneth óver the héathen: * God sitteth upon the thróne of his hóliness. 
-9 The princes of the people are gáthered togéther, * even the people of the Gód of Ábraham: 
-For the shields of the earth belóng unto God: * he is gréatly exálted. 
-**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost. 
-As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+**I**![[Tone I.svg]]<br>1 O clap your hands, / áll ye péople; \* shout unto God with the / vóice of tríumph. 
+2 For the LORD most / hígh is térrible; \* he is a great King / óver áll the earth. 
+3 He shall subdue the / péople únder us, \* and the nations / únder our <u>feet</u>. 
+4 He shall choose our in- / héritance fór us, \* the excellency of / Jácob whóm he loved. 
+5 God is gone / úp with a <u>shout</u>, \* the LORD with the sóund / of a trúmpet. 
+6 Sing praises to / Gód, sing práises: \* sing praises unto our / Kíng, sing práises. 
+7 For God is the / Kíng of áll the earth: \* sing ye praises with / únderstánding. 
+8 God reigneth / óver the héathen: \* God sitteth upon the thróne / of his hóliness. 
+9 The princes of the people are / gáthered togéther, \* even the people of the / Gód of Ábraham: 
+For the shields of the earth be- / lóng unto <u>God</u>: \* he is gréat- / ly exálted. 
+**Glory be to the / Fáther and tó the Son * - and / tó the Hóly Ghost. 
+As it was in the beginning, is now, and / éver sháll be, * - wórld / without énd. Amen.**
 <span style="color:#fe3f01">Ant.</span> Oh, shóut unto <u>God</u> : with the vóice of tríumph.
 ### **Psalm 48** — *Magnus Dominus*
 <span style="color:#fe3f01">Ant.</span> (Verse 1)
-**I**![[Tone I.svg]]<br>1 \[Great is the LORD, and gréatly tó be praised] * in the city of our God, in the mountain óf his hóliness. 
-2 Beautiful for situation, the jóy of the whóle earth, * is mount Zion, on the sides of the north, the city óf the gréat King. 
-3 God is known in her palaces fór a réfuge. * 
-4 For, lo, the kings were assembled, they passed bý togéther. 
-5 They saw it, and só they márvelled; * they were troubled, and hásted away. 
-6 Fear took hóld upón them there, * and pain, as of a wóman ín travail. 
-7 Thou breakest the shíps of Társhish * wíth an éast wind. 
-8 As we have heard, so have we seen † in the city of the LORD of hosts, in the cíty óf our God: * God will establish ít for éver. 
-9 We have thought of thy lovingkíndness, O God, * in the mídst of thy témple. 
-10 According to thy name, O God, so is thy praise unto the énds of the earth: * thy right hand is fúll of ríghteousness. 
-11 Let mount Zion rejoice, let the daughters of Júdah be glad, * becáuse of thy júdgments. 
-12 Walk about Zion, and go róund abóut her: * tell the tówers thereof. 
-13 Mark ye well her bulwarks, consíder her pálaces; * that ye may tell it to the generátion fóllowing. 
-14 For this God is our God for éver and éver: * he will be our guide éven únto death. 
-**Glory be to the Fáther and tó the Son * - and tó the Hóly Ghost.** 
-**As it was in the beginning, is now, and éver sháll be, * - wórld without énd. Amen.**
+**I**![[Tone I.svg]]<br>1 \[Great is the LORD, and / gréatly tó be praised] \* in the city of our God, in the mountain / óf his hóliness. 
+2 Beautiful for situation, the / jóy of the whóle earth, \* is mount Zion, on the sides of the north, the city / óf the gréat King. 
+3 God is known in her palaces / fór a réfuge. \* 4 For, lo, the kings were assembled, they passed / bý togéther. 
+5 They saw it, and / só they márvelled; \* they were troubled, and / hásted a<u>way</u>. 
+6 Fear took / hóld upón them there, \* and pain, as of a / wóman ín travail. 
+7 Thou breakest the / shíps of Társhish \* - / wíth an éast wind. 
+8 As we have heard, so have we seen † in the city of the LORD of hosts, in the / cíty óf our God: \* God will establish / ít for éver. 
+9 We have thought of thy loving- / kíndness, O <u>God</u>, \* in the mídst / of thy témple. 
+10 According to thy name, O God, so is thy praise unto the / énds of the <u>earth</u>: \* thy right hand is / fúll of ríghteousness. 
+11 Let mount Zion rejoice, let the daughters of / Júdah be <u>glad</u>, * becáuse / of thy júdgments. 
+12 Walk about Zion, and go / róund abóut her: \* tell the / tówers there<u>of</u>. 
+13 Mark ye well her bulwarks, con- / síder her pálaces; \* that ye may tell it to the gener- / átion fóllowing. 
+14 For this God is our God for / éver and éver: \* he will be our guide / éven únto death. 
+**Glory be to the / Fáther and tó the Son * - and / tó the Hóly Ghost.** 
+**As it was in the beginning, is now, and / éver sháll be, * - wórld / without énd. Amen.**
 <span style="color:#fe3f01">Ant.</span> (Verse 1)
 
 ## Little Chapter 
@@ -88,10 +87,10 @@ As it was in the beginning, is now, and éver sháll be, * - wórld without énd
 2. Be with us now, in mercy nigh, / And spare Thy servants when they cry; / Our sins blot out, our prayers receive, / Thy light throughout our darkness give. 
 3. To Thee who dost our hearts renew, / With fervent prayer we humbly sue, / That pure in thought and free from stain / We from our beds may rise again. 
 4. O Lord, the Virgin-born, to Thee / Eternal praise and glory be, / Whom with the Father we adore / And Holy Ghost forevermore. Amen.
-(Trans. by Copeland and others)Eastertide
+(Trans. by Copeland and others)
 ## Canticle
 <span style="color:#fe3f01">℣.</span> Keep us, O Lord, as the apple of thine eye.  <span style="color:#fe3f01">℟.</span> Hide us under the shadow of thy wings.
-### Nunc dimittis \[III]
+### Nunc dimittis
 <span style="color:#fe3f01">Ant.</span> Guide us waking, O Lord, and guárd us sléeping: That awake we may watch with Christ and asléep we may rést in peace. 
 
 <span style="color:#fe3f01">☩</span> Lord, now lettest thou thy sérvant depárt in peace: * accórding tó thy word; For mine eyes have seen thý Salvátion: * which thou hast prepared before the fáce of all péople; A Light to líghten the Géntiles: * and the Glory of Thy péople Ísrael. 
