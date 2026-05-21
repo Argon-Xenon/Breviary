@@ -15,6 +15,6 @@ Proper Antiphon: "The Lord of hósts is wíth us : the God of Jacob ís our réf
 8 Come, behold the / wórks of the <u>LORD</u>, \* what desolations he hath / máde in the <u>earth</u>. 
 9 He maketh wars to cease unto the end of the earth; † he breaketh the bow, and cutteth the / spéar in súnder; \* he burneth the / chár*i*ot ín the fire. 
 10 Be still, and / knów that Í am God: \* I will be exalted among the heathen, I will be ex- / álted ín the earth. 
-11 The LORD of / hósts is wíth us; * the God of Jacob / ís our réfuge. 
+11 The LORD of / hósts is wíth us; \* the God of Jacob / ís our réfuge. 
 **Glory be to the / Fáther and tó the Son * - and / tó the Hóly Ghost. 
 As it was in the beginning, is now, and / éver sháll be, * - wórld / without énd. Amen.**
